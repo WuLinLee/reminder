@@ -241,3 +241,26 @@ Syncthing 手机下载文件夹 ⇄ 电脑 本地双向同步
 ```
 
 ****
+
+相关链接
+
+- [SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor)
+- [Syncthing-Fork](https://github.com/researchxxl/syncthing-android)
+- [MPV Lazy 2026 Custom](https://github.com/luoxue03/mpv-lazy-2026-custom)
+- [mpvEx-CN](https://github.com/azxcvn/mpvEx-CN)
+- [MPV 字幕导出脚本](https://github.com/dyphire/mpv-scripts/blob/main/sub_export.lua)
+- [我的BAT](https://github.com/WuLinLee/bat)
+- [Ludusavi](https://github.com/mtkennerly/ludusavi)
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [FFmpeg Windows Builds](https://github.com/GyanD/codexffmpeg)
+- [Chromaprint](https://github.com/acoustid/chromaprint)
+- [Ghostscript](https://github.com/ArtifexSoftware/ghostpdl)
+- [Ghostscript Downloads](https://github.com/ArtifexSoftware/ghostpdl-downloads)
+- [img2pdf](https://github.com/josch/img2pdf)
+- [pikepdf](https://github.com/pikepdf/pikepdf)
+- [TagLibSharp](https://github.com/mono/taglib-sharp)
+- 下面是非github网址
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+- [Typora](https://typora.io/)
+- [Everything](https://www.voidtools.com/)
+- [Steam](https://store.steampowered.com/)
